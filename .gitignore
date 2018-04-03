@@ -1,0 +1,12 @@
+*.bak
+*-bak
+*.csv
+*.gbl
+*.gbs
+*.gbo
+*.drl
+*.gml
+*.gtl
+*.gts
+*.gto
+*.zip
